@@ -1,4 +1,4 @@
-<h1><strong>...under construction</strong></h1>
+<h1><strong>...work in progress</strong></h1>
 
 ### Hello everyone! I'm Vinicius Nogueira.
 Python Backend student
