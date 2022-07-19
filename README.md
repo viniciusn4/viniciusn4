@@ -1,5 +1,5 @@
 ### Hello everyone! I'm Vinicius Nogueira.
-Python Backend student
+Backend Developer
 
 ##
 ### Stats
